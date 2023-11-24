@@ -4,10 +4,20 @@
         <title>小弘的官方网站 Blog</title>
         <link>https://xh88888888.github.io/blog</link>
         <description>小弘的官方网站 Blog</description>
-        <lastBuildDate>Thu, 26 Aug 2021 00:00:00 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Nov 2023 00:00:00 GMT</lastBuildDate>
         <docs>https://validator.w3.org/feed/docs/rss2.html</docs>
         <generator>https://github.com/jpmonette/feed</generator>
         <language>zh</language>
+        <item>
+            <title><![CDATA[小弘今天结束git课程]]></title>
+            <link>https://xh88888888.github.io/blog/happy</link>
+            <guid>https://xh88888888.github.io/blog/happy</guid>
+            <pubDate>Fri, 24 Nov 2023 00:00:00 GMT</pubDate>
+            <description><![CDATA[哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈]]></description>
+            <content:encoded><![CDATA[<p>哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈哈</p>]]></content:encoded>
+            <category>hola</category>
+            <category>docusaurus</category>
+        </item>
         <item>
             <title><![CDATA[Welcome]]></title>
             <link>https://xh88888888.github.io/blog/welcome</link>
